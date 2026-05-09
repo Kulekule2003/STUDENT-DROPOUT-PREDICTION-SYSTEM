@@ -1,0 +1,13 @@
+# virtual environment
+eve/
+
+# environment variables
+.env
+
+# python cache
+__pycache__/
+*.pyc
+
+# Ignore requirements files
+requirements.txt
+
